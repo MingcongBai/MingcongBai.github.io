@@ -2,10 +2,20 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+Right...
+========
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+*Hello lads.*
 
-# What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+This is Mingcong Bai (or Jeff if you have absolutely no idea how to pronouce 'Min-ts-ong'), a/an/the (*):
+
+- PowerPC (and anything non-x86) enthusiast.
+- Linux and Systemd (underpant retailing insdustry) advocate.
+- Maintainer of [AOSC OS](https://aosc.io/).
+- Undergraduate history student at [University of Wisconsin - Madison](https://wisc.edu/).
+- Absolute knobhead with college mathematics.
+- Socialist with little care about politics.
+
+(*) Go figure.
+
+*"Wake up, work, work, work... [OOM]"*
