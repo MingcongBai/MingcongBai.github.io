@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `[MURMUR]` Hello (Again)
+title: |MURMUR| Hello (Again)
 ---
 
 So here's something new (not) - I've decided to start a new blog again.
