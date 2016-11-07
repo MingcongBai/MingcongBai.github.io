@@ -1,9 +1,8 @@
 # Blog settings
 permalink: /blog/:title
 
-
 # My variables
-name: "POWER" to the People
+name: POWER to the People
 description: A PowerPC Lover's Murmurs
 google_verification: null
 
