@@ -123,11 +123,11 @@ the "Shasta" controller. A new partition map is now created on **0,1** as follow
 
 ```
 /dev/sdc
-        #                type name       length   base      ( size ) system
-/dev/sdc1 Apple_partition_map Apple          63 @ 1         ( 31.5k) Partition map
-/dev/sdc2     Apple_Bootstrap untitled     1954 @ 64        (977.0k) NewWorld bootblock
-/dev/sdc3     Apple_UNIX_SVR2 Photos  975722525 @ 2018      (465.3G) Linux native
-/dev/sdc4          Apple_Free Extra          49 @ 975724543 ( 24.5k) Free space
+        #                type name       length   base      system
+/dev/sdc1 Apple_partition_map Apple          63 @ 1         Partition map
+/dev/sdc2     Apple_Bootstrap untitled     1954 @ 64        NewWorld bootblock
+/dev/sdc3     Apple_UNIX_SVR2 Photos  975722525 @ 2018      Linux native
+/dev/sdc4          Apple_Free Extra          49 @ 975724543 Free space
 ```
 
 (Output of `mac-fdisk` print function)
