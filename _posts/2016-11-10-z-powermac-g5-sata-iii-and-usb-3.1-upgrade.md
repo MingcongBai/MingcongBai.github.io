@@ -13,9 +13,9 @@ So, why?
 PowerMac G5 comes with a SATA storage controller - identified by Linux as follows:
 
 ```
-0001:01:07.0 Unassigned class [ff00]: Apple Inc. Shasta Mac I/O
+Unassigned class [ff00]: Apple Inc. Shasta Mac I/O
 ...
-0001:03:0d.0 Unassigned class [ff00]: Apple Inc. Shasta IDE
+Unassigned class [ff00]: Apple Inc. Shasta IDE
 ```
 
 While it's quite awesome for a early 2000s machine to ship with a SATA controller - and
@@ -51,8 +51,8 @@ But in the end it turned out okay, ... *(Relief)*
 ... So, for this upgrade, two cards were put into the machine:
 
 ```
-0001:06:00.0 USB controller: ASMedia Technology Inc. ASM1142 USB 3.1 Host Controller
-0001:09:00.0 SATA controller: ASMedia Technology Inc. ASM1062 Serial ATA Controller (rev 01)
+USB controller: ASMedia Technology Inc. ASM1142 USB 3.1 Host Controller
+SATA controller: ASMedia Technology Inc. ASM1062 Serial ATA Controller (rev 01)
 ```
 
 And they were fitted in the machine in a setup as follows:
@@ -73,7 +73,8 @@ prepared for a lot of nails-against-aluminium joy.
 
 But anyways...
 
-There is a gap between the mesh on the rear of the machine and the upper frame separator (between the PCIe compartment and the HDD compartment) - route all cables between this
+There is a gap between the mesh on the rear of the machine and the upper frame separator
+(between the PCIe compartment and the HDD compartment) - route all cables between this
 gap. It won't be very neat after all, as you can see in the photo below.
 
 [![g5-pci](/assets/img/g5-pci.jpg)](/assets/img/g5-pci-full.jpg)
@@ -110,20 +111,23 @@ be more appropriate in a multi-drive system. Let me clarify some notations:
 So, here's the re-arrangement plan:
 
 - **0,1** will be stripped of all its contents except for my ~300GB collection of
-photographs, *Yaboot* (Linux/OS X boot manager for NewWorld PowerPC Macs) and the *Linux Kernel images*.
+  photographs, *Yaboot* (Linux/OS X boot manager for NewWorld PowerPC Macs) and the
+  *Linux Kernel images*.
 - **1,1** will be used for compiling (this PowerMac G5 is responsible for the PPC and
   PPC64 port of AOSC OS) and system containers (BuildKits and such).
 - **1,2** will hold my daily system.
 
-So why does **0,1** have to hold the Kernel image and Yaboot? PowerPC Macintoshes uses a special "Apple" partition map, and it expects the bootloader to be on the HDD attached to
+So why does **0,1** have to hold the Kernel image and Yaboot? PowerPC Macintoshes uses a 
+special "Apple" partition map, and it expects the bootloader to be on the HDD attached to
 the "Shasta" controller. A new partition map is now created on **0,1** as follows:
 
-```/dev/sdc
-        #                    type name                length   base    ( size )  system
-/dev/sdc1     Apple_partition_map Apple                   63 @ 1       ( 31.5k)  Partition map
-/dev/sdc2         Apple_Bootstrap untitled              1954 @ 64      (977.0k)  NewWorld bootblock
-/dev/sdc3         Apple_UNIX_SVR2 Photos             975722525 @ 2018    (465.3G)  Linux native
-/dev/sdc4              Apple_Free Extra                   49 @ 975724543 ( 24.5k)  Free space
+```
+/dev/sdc
+        #                type name       length   base      ( size ) system
+/dev/sdc1 Apple_partition_map Apple          63 @ 1         ( 31.5k) Partition map
+/dev/sdc2     Apple_Bootstrap untitled     1954 @ 64        (977.0k) NewWorld bootblock
+/dev/sdc3     Apple_UNIX_SVR2 Photos  975722525 @ 2018      (465.3G) Linux native
+/dev/sdc4          Apple_Free Extra          49 @ 975724543 ( 24.5k) Free space
 ```
 
 (Output of `mac-fdisk` print function)
@@ -181,7 +185,9 @@ below):
 
 ```
 # mount /dev/sda1 /mnt
-# rsync -axX --info=progress2 --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*","/run/*","/mnt/*","/media/*","/lost+found"} /mnt
+# rsync -axX --info=progress2 \
+        --exclude={"/dev/*","/proc/*","/sys/*","/tmp/*", \
+        "/run/*","/mnt/*","/media/*","/lost+found"} / /mnt
 # sync
 ```
 
@@ -198,8 +204,10 @@ References:
 
 - Linux Newbies Page for 4.6 (USB 3.1 support information):
   - https://kernelnewbies.org/Linux_4.6
-- Wikipedia: *"Power Mac G5"* (PCIe support):
+- Wikipedia: *Power Mac G5* (PCIe support):
   - https://en.wikipedia.org/wiki/Power_Mac_G5
+- Wikipedia: *Apple Partition Map*
+  - https://en.wikipedia.org/wiki/Apple_Partition_Map
 - *"SATA and USB3.0 upgrade on PowerMac G5"*
   (Appreciated the information, but not very well documented):
   - http://somethingoo.blogspot.com/2014/11/sata-and-usb30-upgrade-on-powermac-g5.html
