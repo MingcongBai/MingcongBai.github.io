@@ -10,7 +10,7 @@ Right...
 This is Mingcong Bai (or Jeff if you have absolutely no idea how to pronouce 'Min-ts-ong'), a/an/the (*):
 
 - PowerPC (and anything non-x86) enthusiast.
-- Linux and Systemd (underpant retailing insdustry) advocate.
+- Linux and Systemd (underpants retailing industry) advocate.
 - Maintainer of [AOSC OS](https://aosc.io/).
 - Undergraduate history student at [University of Wisconsin - Madison](https://wisc.edu/).
 - Absolute knobhead with college mathematics.
