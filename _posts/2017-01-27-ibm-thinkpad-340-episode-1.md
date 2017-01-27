@@ -291,7 +291,7 @@ laptop:
 
 - Run Windows 95 on it.
   - PuTTY, with SSH/Serial and Telnet, making it a weather station (Telnet,
-    powered by [Weather Undergound](telnet://rainmaker.wundergound.com)).
+    powered by [Weather Undergound](telnet://rainmaker.wunderground.com)).
   - Office 95/97, for my occasional to-do list-making, and blogging needs (it's
     just better to write it on a old computer with little distraction).
   - CD-ROM drive, just general CD music playback...
@@ -333,4 +333,5 @@ P.S. For full-size images with full 16.7M colours, check out my Imgur album
   If you put a 16MB or even a ridiculous 32MB card into the 340, it will simply
   ignore the card, leaving you with 4MB of RAM.
 - [6] Original article
-  [here](http://ps-2.kev009.com/pcpartnerinfo/ctstips/b01a.htm).
+  [here](http://ps-2.kev009.com/pcpartnerinfo/ctstips/b01a.htm).
+- [7] Say, X240, T440, yes, the generation with horrific trackpoint buttons.
