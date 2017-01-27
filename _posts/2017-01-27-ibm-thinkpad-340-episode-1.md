@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Silent Box: Episode 1, The Machine
+title: The Silent Box. Episode 1, The Machine
 ---
 
 So I figured that it's about time for another blog post. Well, this time will be
