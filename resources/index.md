@@ -12,7 +12,7 @@ I figured that I should share my class notes for those who are interested:
 - ENGLISH 100 (Kaydian Campbell): [Portal](https://github.com/MingcongBai/english100-notes)
 - HISTORY 161 (Cindy I-Fen Cheng): [Portal](https://github.com/MingcongBai/history161-notes)
 - HISTORY 277 (Jo Ellen Fair): [Portal](https://github.com/MingcongBai/history277-notes)
-- HISTORY 278 (Ethnic Studies): [Portal](https://github.com/MingcongBai/history278-notes)
+- HISTORY 278 (Philip Janzen): [Portal](https://github.com/MingcongBai/history278-notes)
 
 **Fall 2016 (1,1)**
 
