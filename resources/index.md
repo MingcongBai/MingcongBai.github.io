@@ -5,7 +5,19 @@ layout: about
 Academic Resources
 ==================
 
-I figured that I should share my class notes for those who are interested:
+I figured that I should share my class notes (University of Wisconsin - Madison) for those who are interested:
+
+**Fall 2017 (2,2)**
+
+Note: I am not allowed to use my laptop for note-taking this semester, if you do want to see
+my notes, please email me at [mbai8@wisc.edu](mailto:mbai8@wisc.edu) and I'll get back to you
+with a scanned copy as soon as possible.
+
+- HISTORY 110 (Marc Kleijwegt): The Ancient Mediterranean
+- HISTORY 201 (Pernille Ipsen): The Historian's Craft
+- HISTORY 270 (Kathryn Ciancia): Eastern Europe since 1900
+- HISTORY 341 (Judd Kinzley): History of Modern China, 1800-1949
+- SLAVIC 101 (Darya Ivashniova): First Semester Russian
 
 **Spring 2017 (1,2)**
 
