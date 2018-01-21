@@ -7,7 +7,16 @@ Academic Resources
 
 I figured that I should share my class notes (University of Wisconsin - Madison) for those who are interested:
 
-**Fall 2017 (2,2)**
+**Spring 2018 (2,2)**
+
+- BOTANY 100 (Marie Trest): Survey of Botany
+- HISTORY 342 (Judd Kinzley): History of the Peoples Republic of China, 1949 to the Present
+- HISTORY 424 (Francine Hirsch): The Soviet Union and the World, 1917-1991
+- LITTRANS 234 (Jennifer Tishler): Soviet Life and Culture Through Literature and Art (from 1917)
+- SLAVIC 102 (Darya Ivashniova): Second Semester Russian
+
+
+**Fall 2017 (2,1)**
 
 Note: I am not allowed to use my laptop for note-taking this semester, if you do want to see
 my notes, please email me at [mbai8@wisc.edu](mailto:mbai8@wisc.edu) and I'll get back to you
