@@ -28,4 +28,13 @@ me, but with way superior quality.
 
 -------------------------------------------------------------------------------
 
+**Tianhao Chai's Blog - "repo.mind.cth451"**
+
+[http://cth451.tk/](http://cth451.tk/), classmate (well more like school mate
+since he's a gem of the Computer Science Department) and ex-roommate. Japanese
+Anime enthusiast (Otaku?), Blender and Minecraft hobbist, and occasional food
+and travel blogger (damn you).
+
+-------------------------------------------------------------------------------
+
 *My friends... Where are you?*
