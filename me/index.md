@@ -12,7 +12,7 @@ This is Mingcong Bai (or Jeff if you have absolutely no idea how to pronouce 'Mi
 - PowerPC (and anything non-x86) enthusiast.
 - Linux and Systemd (underpants retailing industry) advocate.
 - Maintainer of [AOSC OS](https://aosc.io/).
-- Undergraduate history student at [University of Wisconsin - Madison](https://wisc.edu/).
+- Undergraduate History and Russian student at [University of Wisconsin - Madison](https://wisc.edu/).
 - Absolute knobhead with college mathematics.
 - Socialist with little care about politics.
 
