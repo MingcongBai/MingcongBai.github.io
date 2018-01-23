@@ -40,8 +40,8 @@ and travel blogger (damn you).
 **The Salted Fish's Blog - "Home - Untitled"**
 
 [https://v2bv.net/](https://v2bv.net/), young and rebellious high schooler with
-a strong interest in a great variety of techical topics - and occasionally
-political. Fellow user of a pure-text-like-blog-theme-of-some-description.
+a strong interest in a great variety of techical topics - and quite often some
+insightful opinions. Fellow user of a pure-text-like-blog-theme-of-some-description.
 
 -------------------------------------------------------------------------------
 
