@@ -12,7 +12,7 @@ I figured that I should share my class notes (University of Wisconsin - Madison)
 Starting from this semester I will attempt to transcribe all my hand-written notes to Markdown documents, similar to what was done in the first year. There may be delays, and please note that these notes are only transcribed to ease the search and reference process - they might not seem organised. If you have any questions, do email me at [mbai8@wisc.edu](mailto:mbai8@wisc.edu) and I will try and respond as soon as possible.
 
 - BOTANY 100 (Marie Trest): Survey of Botany
-- HISTORY 342 (Judd Kinzley): History of the Peoples Republic of China, 1949 to the Present
+- HISTORY 342 (Judd Kinzley): History of the Peoples Republic of China, 1949 to the Present - [Portal](https://github.com/MingcongBai/history342-notes)
 - HISTORY 424 (Francine Hirsch): The Soviet Union and the World, 1917-1991 - [Portal](https://github.com/MingcongBai/history424-notes)
 - LITTRANS 234 (Jennifer Tishler): Soviet Life and Culture Through Literature and Art (from 1917)
 - SLAVIC 102 (Darya Ivashniova): Second Semester Russian
