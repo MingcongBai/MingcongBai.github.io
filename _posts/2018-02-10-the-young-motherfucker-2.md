@@ -3,7 +3,7 @@ layout: post
 title: The "Y.M.F.", Lenovo ThinkPad L420 - 2/3, The Review
 ---
 
-**You young motherfu...* If you read my former [post](https://mingcongbai.wtf/blog/the-old-motherfucker)
+*You young motherfu...* If you read my former [post](https://mingcongbai.wtf/blog/the-old-motherfucker)
 about the "Old Motherfucker" or the "O.M.F.", the IBM ThinkPad 380XD is the
 first ThinkPad - or in fact the first computer - that I owned. Gifted to me by
 my father, this was a relic of the late 1990s, when tri-spindle laptops
