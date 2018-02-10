@@ -371,19 +371,19 @@ ThinkPad model. I hope you survived my convoluted paragraphs well...
 But I thought I'd end this album with some extras:
 
 - Video (28:52) recording of the factory restore (operating system) process, 
-  https://www.youtube.com/watch?v=hbtVKWzyma0.
+  [https://www.youtube.com/watch?v=hbtVKWzyma0](https://www.youtube.com/watch?v=hbtVKWzyma0).
 - Where I obtained the original factory image/files, 
-  http://www.os2museum.com/wp/thinkpad-701-restore-using-cf-media/. Along 
+  [http://www.os2museum.com/wp/thinkpad-701-restore-using-cf-media/](http://www.os2museum.com/wp/thinkpad-701-restore-using-cf-media/). Along 
   with instructions, the Dropbox download link could be found in the comment 
   section by a reader "Paul". I would personally recommend the blog in 
   general, tons of vintage hardware/software journalism and analysis, just 
   how I like it.
 - AMD X5-133MHz (5x86) mod, way beyond my skill level, but very interesting 
-  indeed, https://blog.noq2.net/butterfly-on-speed-thinkpad-701-overclocking-and-amd-x5-133-mhz-mod.html.
+  indeed, [https://blog.noq2.net/butterfly-on-speed-thinkpad-701-overclocking-and-amd-x5-133-mhz-mod.html](https://blog.noq2.net/butterfly-on-speed-thinkpad-701-overclocking-and-amd-x5-133-mhz-mod.html).
 - IBMFiles archive for 701C/701CS, drivers, manuals, etc. 
-  http://ibmfiles.com/pages/701c.htm.
+  [http://ibmfiles.com/pages/701c.htm](http://ibmfiles.com/pages/701c.htm).
 - Conrad's battery rebuild adventure, good reference, 
-  http://www.conradshome.com/thinkpad/701/battery/. This is the 3rd part of 
+  [http://www.conradshome.com/thinkpad/701/battery/](http://www.conradshome.com/thinkpad/701/battery/). This is the 3rd part of 
   his three-part adventure with the 701C, interesting read.
 
 All right, I'll leave it here. If you have any questions please 
