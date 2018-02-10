@@ -42,23 +42,23 @@ But heck the case is here, let's crack on with it already!
 Just this Wednesday, this beautiful box was delivered, straight from Germany
 (well, getting stuck in U.S. Customs at Chicago for a week, *cough*...).
 
-![[dan-case-box](https://imgur.com/r2EByGP.jpg)](https://imgur.com/otdRDTj.jpg)
+[![dan-case-box](https://imgur.com/r2EByGP.jpg)](https://imgur.com/otdRDTj.jpg)
 
 And damn this case is small (well from what I know of as a mITX case). The
 sheet metal looks and feels quite solid as well, but the case itself isn't
 overly heavy (at least not heavier than it seems anyways).
 
-![[dan-case-out](https://imgur.com/uRpBQLy.jpg)](https://imgur.com/Vt7fUs9.jpg)
+[![dan-case-out](https://imgur.com/uRpBQLy.jpg)](https://imgur.com/Vt7fUs9.jpg)
 
 Look at that rear side...
 
-![[dan-case-rear](https://imgur.com/t3x6ed7.jpg)](https://imgur.com/xHEmRpP.jpg)
+[![dan-case-rear](https://imgur.com/t3x6ed7.jpg)](https://imgur.com/xHEmRpP.jpg)
 
 Before you could remove the side panels, you would have to remove the four
 philips-head screws at the bottom. While the screws are of great quality, one
 of them isn't screwed in straight - no big deal, I got it out.
 
-![[dan-case-bottom-screws](https://imgur.com/cDcKe8v.jpg)](https://imgur.com/aXqTS5e.jpg)
+[![dan-case-bottom-screws](https://imgur.com/cDcKe8v.jpg)](https://imgur.com/aXqTS5e.jpg)
 
 And now you can just pull the panels right off the case. Kudos to Dan Case for
 using metal clips - I can't describe how scared I could get when pulling off
@@ -66,11 +66,11 @@ panels on newer ThinkPads, surrounded by a sh*t ton of small plastic clips.
 
 It makes a solid "think" when you remove it as well, very satisfying.
 
-![[dan-case-panel-off](https://imgur.com/v9sVLRz.jpg)](https://imgur.com/pBKn62R.jpg)
+[![dan-case-panel-off](https://imgur.com/v9sVLRz.jpg)](https://imgur.com/pBKn62R.jpg)
 
 A close-up at the clip mechanism, very neat!
 
-![[dan-case-panel-clip](https://imgur.com/yBrUKeC.jpg)](https://imgur.com/wOsmEQp.jpg)
+[![dan-case-panel-clip](https://imgur.com/yBrUKeC.jpg)](https://imgur.com/wOsmEQp.jpg)
 
 With a small case like this, it is essential to remove all the panels you
 could, to maximise your workspace - and with that taken care of, let's take a
@@ -80,24 +80,24 @@ In this picture it is clear to see that they rely on a PCIe ribbon extension
 (riser cable?) to minimise the volume of this case: putting the expansion slot
 parallel to the motherboard - but at its back side.
 
-![[dan-case-side-panels-off](https://imgur.com/S30yBOE.jpg)](https://imgur.com/SHOF38e.jpg)
+[![dan-case-side-panels-off](https://imgur.com/S30yBOE.jpg)](https://imgur.com/SHOF38e.jpg)
 
 Oh yeah, you could - no, need - to remove the top panel as well, with another
 four screws removed. Without doing so you wouldn't be able to access the PSU
 compartment.
 
-![[dan-case-barebones](https://imgur.com/CprOtAC.jpg)](https://imgur.com/T2tB9WJ.jpg)
+[![dan-case-barebones](https://imgur.com/CprOtAC.jpg)](https://imgur.com/T2tB9WJ.jpg)
 
 A close-up on the PCIe riser cable, absolutely solid, seems to be plated with
 metal - it barely bends.
 
-![[dan-case-riser](https://imgur.com/dX5icaj.jpg)](https://imgur.com/qoeEAjc.jpg)
+[![dan-case-riser](https://imgur.com/dX5icaj.jpg)](https://imgur.com/qoeEAjc.jpg)
 
 This, on the other hand, is the least inspiring part about this case. I get it,
 not all motherboards support the Gen 2 interface yet... An option to purchase
 Gen 2 cable would be nice.
 
-![[dan-case-usb](https://imgur.com/O4Z4L33.jpg)](https://imgur.com/z5q2Kf2.jpg)
+[![dan-case-usb](https://imgur.com/O4Z4L33.jpg)](https://imgur.com/z5q2Kf2.jpg)
 
 And now, time to build, the following are going into this case:
 
@@ -106,11 +106,11 @@ And now, time to build, the following are going into this case:
 - Corsair SF450.
 - Noctua 92mm Redux Series Fan.
 
-![[dan-case-build-components](https://imgur.com/xF6sOEx.jpg)](https://imgur.com/C4nPuBS.jpg)
+[![dan-case-build-components](https://imgur.com/xF6sOEx.jpg)](https://imgur.com/C4nPuBS.jpg)
 
 Another angle on the components...
 
-![[dan-case-components-alt](https://imgur.com/A6zhHwV.jpg)](https://imgur.com/MhXeSRC.jpg)
+[![dan-case-components-alt](https://imgur.com/A6zhHwV.jpg)](https://imgur.com/MhXeSRC.jpg)
 
 Before we do anything, let's not forget the age-old lesson...
 
@@ -118,24 +118,24 @@ Dan Case (or Biostar?) has done a really good job on sizing their slot for the
 I/O shield (or the shield itself?), it slid right in without much hassel or
 blood shed. Kudos.
 
-![[dan-case-io-shield](https://imgur.com/udR3bjB.jpg)](https://imgur.com/uHroj7p.jpg)
+[![dan-case-io-shield](https://imgur.com/udR3bjB.jpg)](https://imgur.com/uHroj7p.jpg)
 
 Motherboard, in. A light drizzle of *Olovol*...
 
 For a mITX motheboard, only four screws are needed, though at this point it is
 already evident that space will not be in abundance - quite the contrary.
 
-![[dan-case-motherboard](https://imgur.com/SDzEGj0.jpg)](https://imgur.com/8uLTktV.jpg)
+[![dan-case-motherboard](https://imgur.com/SDzEGj0.jpg)](https://imgur.com/8uLTktV.jpg)
 
 And now with the PSU set in place, barely any gap's left.
 
-![[dan-case-psu](https://imgur.com/c5B6BUs.jpg)](https://imgur.com/HwwXeAN.jpg)
+[![dan-case-psu](https://imgur.com/c5B6BUs.jpg)](https://imgur.com/HwwXeAN.jpg)
 
 And the PSU cables... Oh no. Just a quick note, the fan would go underneath
 the PSU, set against the bottom panel - so it is very important that the PSU
 cables are tied in against the PSU, as high up as possible.
 
-![[dan-case-psu-cables](https://imgur.com/MaIsatj.jpg)](https://imgur.com/WHCXsRb.jpg)
+[![dan-case-psu-cables](https://imgur.com/MaIsatj.jpg)](https://imgur.com/WHCXsRb.jpg)
 
 As you might remember, the power plug for this particular case is at the rear
 of the case, while the PSU is set in all the way at the front. Therefore, a
@@ -144,14 +144,14 @@ via the front, then the bottom of the PCIe compartment, and to the back.
 
 *Apologies for the mis-focus here...*
 
-![[dan-case-psu-passthru](https://imgur.com/tYIa5z5.jpg)](https://imgur.com/oLAmLiR.jpg)
+[![dan-case-psu-passthru](https://imgur.com/tYIa5z5.jpg)](https://imgur.com/oLAmLiR.jpg)
 
 Around the back, in the PCIe compartment, the Intel SSD is installed. Though
 as you can see, the compartment, capable of fitting a full-sized GPU, is clearly
 too large for the SSD alone... But I suppose the more space the better, for this
 is by no means a cool SSD.
 
-![[dan-case-intel-ssd](https://imgur.com/1IZ8Mmg.jpg)](https://imgur.com/Ba6o3an.jpg)
+[![dan-case-intel-ssd](https://imgur.com/1IZ8Mmg.jpg)](https://imgur.com/Ba6o3an.jpg)
 
 Now onto the fans... It should be noted that the space below the PSU was
 originally designed for a 2.5'' HDD cage, and the case does not come with any
@@ -167,7 +167,7 @@ groove on the "screws". Job done, holds reasonably well, but I would still
 prefer an official mounting kit - it's weird, I heard that the case came with
 92mm radiator support...
 
-![[dan-case-fan-mounting](https://imgur.com/qtwUuE0.jpg)](https://imgur.com/jN6pwZL.jpg)
+[![dan-case-fan-mounting](https://imgur.com/qtwUuE0.jpg)](https://imgur.com/jN6pwZL.jpg)
 
 Everything's fitted! Now, as you can see, there's little space left - well at
 least in the motherboard compartment. I tied the PSU cables into multiple
@@ -175,48 +175,48 @@ segments, and routed it around the PSU, and to the gap between the PSU and
 the RAM sticks. Sure, some tension has been put against the RAM sticks, but it's
 not severe.
 
-![[dan-case-fitted](https://imgur.com/zrwGNKs.jpg)](https://imgur.com/GBn6nIw.jpg)
+[![dan-case-fitted](https://imgur.com/zrwGNKs.jpg)](https://imgur.com/GBn6nIw.jpg)
 
 Just another angle to show how small the Intel SSD is compared to the
 compartment...
 
-![[dan-case-pcie-compartment](https://imgur.com/i1P6bmJ.jpg)](https://imgur.com/kabZfDl.jpg)
+[![dan-case-pcie-compartment](https://imgur.com/i1P6bmJ.jpg)](https://imgur.com/kabZfDl.jpg)
 
 Again, you can see how crammed the motherboard compartment is, with the PSU
 cable still hanging out of the case...
 
-![[dan-case-cramming](https://imgur.com/pRp3UFt.jpg)](https://imgur.com/mVRNqA2.jpg)
+[![dan-case-cramming](https://imgur.com/pRp3UFt.jpg)](https://imgur.com/mVRNqA2.jpg)
 
 No worries, let's fight tension with tension, wraping the USB 3.0 (or 3.1
 Gen 1, whatever) around the PSU cables to create enough friction to hold it
 in place.
 
-![[dan-case-friction](https://imgur.com/6EysueK.jpg)](https://imgur.com/t9nvHXq.jpg)
+[![dan-case-friction](https://imgur.com/6EysueK.jpg)](https://imgur.com/t9nvHXq.jpg)
 
 Another close-up shot at the area around the fan. No interference = no damage +
 no noise + some valid airflow.
 
-![[dan-case-fan-closeup](https://imgur.com/waq5NCj.jpg)](https://imgur.com/Kxjotj6.jpg)
+[![dan-case-fan-closeup](https://imgur.com/waq5NCj.jpg)](https://imgur.com/Kxjotj6.jpg)
 
 Back to the rear, with everything fitted, and the panel put back...
 
-![[dan-case-rear-fitted](https://imgur.com/xoAmo7W.jpg)](https://imgur.com/aM6AOhj.jpg)
+[![dan-case-rear-fitted](https://imgur.com/xoAmo7W.jpg)](https://imgur.com/aM6AOhj.jpg)
 
 External CPU, any one? The next image shows the detail specs of the "server"
 as it is connected via SSH (remember, it has no video output, so it is only
 possible to operate the machine via remote connection).
 
-![[dan-case-ssh-1](https://imgur.com/udsJ7fr.jpg)](https://imgur.com/8lpJP1i.jpg)
-![[dan-case-ssh-2](https://imgur.com/gZuniAl.jpg)](https://imgur.com/K6SW2Mr.jpg)
+[![dan-case-ssh-1](https://imgur.com/udsJ7fr.jpg)](https://imgur.com/8lpJP1i.jpg)
+[![dan-case-ssh-2](https://imgur.com/gZuniAl.jpg)](https://imgur.com/K6SW2Mr.jpg)
 
 Finally, put it on my computing shelf! Looking solid against my PowerMac G5
 Quad, and everything else...
 
-![[dan-case-on-shelf](https://imgur.com/3sisc63.jpg)](https://imgur.com/MYpVHbp.jpg)
+[![dan-case-on-shelf](https://imgur.com/3sisc63.jpg)](https://imgur.com/MYpVHbp.jpg)
 
 Now this is my kind of RGB.
 
-![[dan-case-rgb](https://imgur.com/EURML8q.jpg)](https://imgur.com/cqqw3Rv.jpg)
+[![dan-case-rgb](https://imgur.com/EURML8q.jpg)](https://imgur.com/cqqw3Rv.jpg)
 
 -------
 
