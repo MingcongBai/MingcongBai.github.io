@@ -33,14 +33,14 @@ a measly quad core E3! But for the next couple seasons it would be set on top of
 a block of foam, and put on my bookshelf.
 
 *For how many months dust have fallen on you...*
-*You (the fan) struggled, but never managed to blow them the f&ast;ck away...*
+*You (the fan) struggled, but never managed to blow them the fuck away...*
 
 But heck the case is here, let's crack on with it already!
 
 --------
 
 Just this Wednesday, this beautiful box was delivered, straight from Germany
-(well, getting stuck in U.S. Customs at Chicago for a week, &ast;cough&ast;...).
+(well, getting stuck in U.S. Customs at Chicago for a week, *cough*...).
 
 ![[dan-case-box](https://imgur.com/r2EByGP.jpg)](https://imgur.com/otdRDTj.jpg)
 
