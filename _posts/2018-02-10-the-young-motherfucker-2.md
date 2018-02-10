@@ -94,8 +94,8 @@ Along with that...
 
 --------
 
-[![l420-left](https://imgur.com/6YspPvF)](https://imgur.com/nra9yOK)
-[![l420-right](https://imgur.com/QayfPFR)](https://imgur.com/LXLjdNf)
+[![l420-left](https://imgur.com/6YspPvF.jpg)](https://imgur.com/nra9yOK.jpg)
+[![l420-right](https://imgur.com/QayfPFR.jpg)](https://imgur.com/LXLjdNf.jpg)
 
 All-you-can-use ports buffet!
 
@@ -127,7 +127,7 @@ battery life under Linux is still easily achievable.
 
 --------
 
-[![l420-cooling](https://imgur.com/ubiOxrl)](https://imgur.com/hTQhoR8)
+[![l420-cooling](https://imgur.com/ubiOxrl.jpg)](https://imgur.com/hTQhoR8.jpg)
 
 The L420 cools and isolates heat well - credited to its thickness granting
 necessary space for heat to escape.
