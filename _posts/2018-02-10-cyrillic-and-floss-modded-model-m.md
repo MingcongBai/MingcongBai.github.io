@@ -5,7 +5,8 @@ title: Russian Cyrillic, and Floss Modded IBM Model M
 
 With summer closing in, I'm planning on upgrading my IBM NetVista sleeper build
 to year 2017 specs (probably swapping out my Ryzen 7 1800X from the
-[server build]() to a new mATX motherboard, and put a Ryzen 2000 series into the
+[server build](https://mingcongbai.wtf/blog/dan-case-ryzen-build-2018)
+to a new mATX motherboard, and put a Ryzen 2000 series into the
 sever), and in case you don't know what that's about, here's a quick
 [tour](https://imgur.com/gallery/8HsYp) I made several months ago upon a
 fellow Redditor's request. With the upgrade, the not-obviously-modern NetVista
