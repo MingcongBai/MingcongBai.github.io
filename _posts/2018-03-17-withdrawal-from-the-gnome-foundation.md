@@ -5,9 +5,8 @@ title: Goodbye, GNOME Foundation
 
 Subject: My Letter to Withdraw Membership from the GNOME Foundation     <br />
 From: Mingcong Bai <jeffbai at aosc dot io>    <br />
-To: membership-committee@gnome.org    <br />
-Cc: foundation-list@gnome.org    <br />
-Date: March 17th, 2018. 16:39 -0500    
+To: foundation-list@gnome.org    <br />
+Date: March 17th, 2018. 17:01 -0500    
 
 --------
 
