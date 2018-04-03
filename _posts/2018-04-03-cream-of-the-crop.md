@@ -219,7 +219,7 @@ relatively compact chassis - and within the official hardware support, the
 best hardware has been added to it. The result is, then, performance
 reasonably usable by today's standard - as long as you steer clear of
 stupidly JavaScript-packed websites like [BBC](https://bbc.co.uk/) and
-[CNN](https://cnn.com/) - nothing against liberal media, but damn, strip
+[CNN](https://cnn.com/) - nothing against the liberal media, but damn, strip
 down your website or at least provide something more basic, okay?
 
 As to the "almost" part, it comes back to the "evil" of allowing upgrades
