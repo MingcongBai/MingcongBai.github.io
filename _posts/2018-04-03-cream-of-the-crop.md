@@ -81,7 +81,7 @@ two batches of motherboards, the latter of which produced since Q3 of 2008.
 With a strong T61 user community even to this day, sourcing a good T61p
 motherboard couldn't be more difficult, especially for a good price.
 
-I guess I finally lucked out, as wujstefan from the ThinkPad Forum decided
+I guess I finally lucked out, as wujstefan from the ThinkPads Forum decided
 to sell his T61p motherboards along with some spare parts - now time to
 jump on it. I ended up grabbing two for some nearly unreasonable amount of
 money, but hey, when would I find the next one? This kind Polish man
