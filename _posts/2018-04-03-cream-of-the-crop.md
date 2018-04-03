@@ -222,12 +222,12 @@ stupidly JavaScript-packed websites like [BBC](https://bbc.co.uk/) and
 [CNN](https://cnn.com/) - nothing against the liberal media, but damn, strip
 down your website or at least provide something more basic, okay?
 
-As to the "almost" part, it comes back to the "evil" of allowing upgrades
-and modifications. The T61 could be modded to use FSB1066 Core 2
-processors, allowing for going beyond the current X9000 maximum, which
-runs on a 800MT/s FSB, and potentially quite a boost on responsiveness.
-Not to mention the possibility to use quad-core Core 2's with some
-further modifications.
+As to the "almost" part, it comes back to the "evil" of owning a ThinkPad,
+in allowing for upgrades and modifications. The T61 could be modded to use
+Core 2 processors running on a 1066MT/s FSB, allowing for going beyond the
+current X9000 maximum, which runs on a 800MT/s FSB, and potentially quite a
+boost on responsiveness. Not to mention the possibility to use quad-core
+Core 2's with some further modifications.
 
 Well, I'd leave it here for now, as the FSB mod requires some soldering
 work which I couldn't lie to say I'm capable of, and that it requires
