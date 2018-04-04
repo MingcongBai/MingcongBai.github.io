@@ -100,7 +100,7 @@ more reputable modules. So I've purchased two sticks of Elpida RAM, which
 came with metal heatsinks (!), and runs at a lower voltage (which makes
 the former feature less appealing, but hey, it looks damn good).
 
-![[elpida](https://i.imgur.com/NMGbJvg.jpg)](https://i.imgur.com/QofE7K4.jpg)
+[![elpida](https://i.imgur.com/NMGbJvg.jpg)](https://i.imgur.com/QofE7K4.jpg)
 
 And so it begins. The T61 is extremely easy to take apart with just one
 part held in with clips, the keyboard bezel - which I got a spare from
@@ -112,11 +112,11 @@ Reversing the process obviously reassembles the computer, but I just had
 to stop to admire the cooling module of the T61 - it's heavy sure, but why
 wouldn't any manufacture stop painting their copper heatsinks black?
 
-![[cooling](https://i.imgur.com/1KAMcdc.jpg)](https://i.imgur.com/5A51k0A.jpg)
+[![cooling](https://i.imgur.com/1KAMcdc.jpg)](https://i.imgur.com/5A51k0A.jpg)
 
 With the machine semi-assembled, time to do a power-on test...
 
-![[test-time](https://i.imgur.com/3C5Jc3M.jpg)](https://i.imgur.com/3C5Jc3M.jpg)
+[![test-time](https://i.imgur.com/3C5Jc3M.jpg)](https://i.imgur.com/3C5Jc3M.jpg)
 
 Success, on the most part. The motherboard I got was a Merom-generation
 motherboard (though from the 2nd batch), and the processor - which I forgot
@@ -152,7 +152,7 @@ Where `BIOS.ROM` is the file name of the ROM file you would download from
 that Forum page. Before the flashing begins, there will be an error
 stating a checksum error, just press Y to continue.
 
-![[flash](https://i.imgur.com/fIxuCy8.jpg)](https://i.imgur.com/HRjoecx.jpg)
+[![flash](https://i.imgur.com/fIxuCy8.jpg)](https://i.imgur.com/HRjoecx.jpg)
 
 After the flash (which should take around 2-3 minutes), the programme will
 prompt to reboot the computer - which it wouldn't do. The T61 will be
@@ -165,7 +165,7 @@ save your settings again.
 At this point, time to replace your clear plate from "T61" to "T61p" to
 celebrate this great success!
 
-![[t61p](https://i.imgur.com/9wTipqi.jpg)](https://i.imgur.com/sVRa6pA.jpg)
+[![t61p](https://i.imgur.com/9wTipqi.jpg)](https://i.imgur.com/sVRa6pA.jpg)
 
 ----
 
@@ -174,7 +174,7 @@ cream-of-the-crop ThinkPad I was hoping for? And how are the...
 
 ["OUT OF THE BOX THERMALS." — Steve Burke](https://www.youtube.com/watch?v=c3PnOsdDPWY)
 
-![[lord-steve](https://i.imgur.com/gQJAVuL.jpg)](https://i.imgur.com/i04wBBe.jpg)
+[![lord-steve](https://i.imgur.com/gQJAVuL.jpg)](https://i.imgur.com/i04wBBe.jpg)
 
 I'm happy to report that it is save to use a Core 2 Duo X9000 @ 2.8GHz and
 the Quadro FX570M within a 14-inch T61 chassis, as long as the cooler has
@@ -191,7 +191,7 @@ heated it up dangerously close to 90℃). The graphics chip however, behaved
 nicely, running at ~65℃ with a round of Need for Speed: Carbon running at
 full effects (no AA) at 1024x768.
 
-![[cooling](https://i.imgur.com/eRVrBA1.jpg)](https://i.imgur.com/kRKN9w2.jpg)
+[![cooling](https://i.imgur.com/eRVrBA1.jpg)](https://i.imgur.com/kRKN9w2.jpg)
 
 So I'd call it a pass. Not to mention that Need for Speed: Carbon runs at
 over 30fps with the stated graphics settings, which is much better than I
@@ -238,4 +238,4 @@ a ThinkPad, with an indefinite lifetime, and no fear for future repairs
 and refurbishment - which is not something that could be said for ThinkPads
 of today.
 
-![[full-view](https://i.imgur.com/BeKQSke.jpg)](https://i.imgur.com/YOEoXCD.jpg)
+[![full-view](https://i.imgur.com/BeKQSke.jpg)](https://i.imgur.com/YOEoXCD.jpg)
