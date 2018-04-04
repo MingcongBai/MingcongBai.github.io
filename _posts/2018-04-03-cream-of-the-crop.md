@@ -43,7 +43,7 @@ system from the X250 - which gave me 6-8hrs of battery life writing documents
 (and with WLAN/BT turned off).
 
 The T61 is a great laptop as it was configured, with its absolutely ample
-array of ports and extremely sturdy construction (with its magesium alloy
+array of ports and extremely sturdy construction (with its magnesium alloy
 interior frame). Not to mention the ThinkLight, which I really missed from
 earlier ThinkPads, remember this...
 
@@ -67,7 +67,7 @@ the [ThinkPad T61 Wiki](https://t61.wikispaces.com/) by TuuS. That's when
 I discovered the existence of a 14-inch, 4:3 T61p model, which offers an
 NVIDIA Quadro FX570M graphics card (equivalent to a 8600M GT) - woah, how
 could I not have that, not only would I be able to watch videos again, some
-Need for Speed: Most Wanted and Carbon would spice my days up tremendeously!
+Need for Speed: Most Wanted and Carbon would spice my days up tremendously!
 
 But it turns out that finding a T61p motherboard is not difficult until
 you began to look for a 4:3 model. The T61's 4:3 models are rare as is,
@@ -75,7 +75,7 @@ as I would imagine the bulk of the machines were purchased as 16:10, 14/15
 inch models here in the States, and probably elsewhere. Another issue with
 these motherboards is that, with a 35W cTDP on the Quadro and some issues
 with the 8000-series NVIDIA mobile graphics chips, which leads to the chips
-desoldering themselves, and corrupted video output. With this circumstance
+de-soldering themselves, and corrupted video output. With this circumstance
 then, the T61p (and all NVIDIA-enabled T61 motherboards in general) seen
 two batches of motherboards, the latter of which produced since Q3 of 2008.
 With a strong T61 user community even to this day, sourcing a good T61p
@@ -106,7 +106,7 @@ And so it begins. The T61 is extremely easy to take apart with just one
 part held in with clips, the keyboard bezel - which I got a spare from
 the same guy just in case. It took me less than 20 minutes until the
 motherboard was extraced first from its outer black casing, then the
-magnesium structual frame.
+magnesium structural frame.
 
 Reversing the process obviously reassembles the computer, but I just had
 to stop to admire the cooling module of the T61 - it's heavy sure, but why
